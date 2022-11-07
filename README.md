@@ -1,9 +1,20 @@
-# Simple-Calculator
+# The Mufid Simple Calculator
 Ini adalah simpel kalkulator project sederhana dengan javascript.
 
 # Untuk siapakah project ini?
 Untuk siapapun yang ingin berkontribusi, dan belajar tentang javascript  fundamental
 
+# Run
+```
+cd Simple-Calculator
+```
+Sesuaikan dengan nama folder anda.
+
+
+```
+node main.js
+```
+Selamat mencoba.
 
 # Do you want to contribute with me?
 1. Fork this repository
